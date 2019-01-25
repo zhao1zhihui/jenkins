@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='dsdUITests.xctest' tests='3' failures='0'>
+  <testsuite name='dsdTests' tests='2' failures='0'>
+    <testcase classname='dsdTests' name='testExample' time='0.001'/>
+    <testcase classname='dsdTests' name='testPerformanceExample' time='0.418'/>
+  </testsuite>
+  <testsuite name='dsdUITests' tests='1' failures='0'>
+    <testcase classname='dsdUITests' name='testExample' time='6.070'/>
+  </testsuite>
+</testsuites>
